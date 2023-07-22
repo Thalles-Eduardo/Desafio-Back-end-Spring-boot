@@ -58,20 +58,22 @@ Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [Postman](ht
 
 - Criar Usuário
 
-![Criar Usuário](https://github.com/Thalles-Eduardo/Desafio-Back-end/assets/69612509/3c757429-e7f5-4bad-b04b-bf926adfbaba)
+![Criar Usuário](https://github.com/Thalles-Eduardo/Desafio-Back-end-Spring-boot/assets/69612509/c7e861f0-3674-4c4a-9ebc-8e2d867d4d19)
 
 - Fazer transferência, é necessário ter dois usuários criados
 
-![Fazer transferência](https://github.com/Thalles-Eduardo/Desafio-Back-end/assets/69612509/904eaef6-88d2-4d05-870b-f83235a273d4)
+![Fazer transferência](https://github.com/Thalles-Eduardo/Desafio-Back-end-Spring-boot/assets/69612509/399aeb9a-8ccd-466f-82ef-28e234c1af96)
 
 - Atualizar Usuário, é necessário passar o id do usuário, mudei apenas o campo "value"
 
-![Atualizar Usuário](https://github.com/Thalles-Eduardo/Desafio-Back-end/assets/69612509/90c2956a-13a0-40f5-955f-bb4e48c8b11a)
+![Atualizar Usuário](https://github.com/Thalles-Eduardo/Desafio-Back-end-Spring-boot/assets/69612509/5ee2cbe0-525e-46c0-8a7c-02de3bb2c4c0)
+
 
 - Listas de todos os usuários
 
-![Listas todos os usuários](https://github.com/Thalles-Eduardo/Desafio-Back-end/assets/69612509/35673980-b40a-4fb5-a181-197d3347430e)
+![Listas de todos os usuários](https://github.com/Thalles-Eduardo/Desafio-Back-end-Spring-boot/assets/69612509/7908b33b-e48a-4204-bfad-dda8b7037146)
+
 
 - Listas de todas as transações
 
-![Listas de todas as transações](https://github.com/Thalles-Eduardo/Desafio-Back-end/assets/69612509/c8e4c85e-a120-4b2f-8d93-4db83e37690f)
+![Listas de todas as transações](https://github.com/Thalles-Eduardo/Desafio-Back-end-Spring-boot/assets/69612509/fd85c003-856d-4cd8-a682-44e211028b23)
