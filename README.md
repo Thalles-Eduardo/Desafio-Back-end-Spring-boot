@@ -36,12 +36,12 @@ API para gerenciar a transação de valores monetários que faz parte [desse des
 
 - Clonar repositório git
 ```bash
-$ git clone https://github.com/Thalles-Eduardo/Desafio-Back-end
+git clone https://github.com/Thalles-Eduardo/Desafio-Back-end
 ```
 
 - Construir o projeto:
 ```bash
-$ ./mvnw clean package
+mvn clean package -DskipTests
 ```
 
 - Executar a aplicação:
