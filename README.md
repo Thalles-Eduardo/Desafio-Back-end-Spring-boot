@@ -77,3 +77,9 @@ Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [Postman](ht
 - Listas de todas as transações
 
 ![Listas de todas as transações](https://github.com/Thalles-Eduardo/Desafio-Back-end-Spring-boot/assets/69612509/fd85c003-856d-4cd8-a682-44e211028b23)
+
+# Author
+
+Thalles Eduardo Dias da Silva
+
+- [Linkedin](linkedin.com/in/thalles-eduardo-7297a6237)
