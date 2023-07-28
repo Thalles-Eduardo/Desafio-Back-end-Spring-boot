@@ -82,4 +82,4 @@ Para fazer as requisições HTTP abaixo, foi utilizada a ferramenta [Postman](ht
 
 Thalles Eduardo Dias da Silva
 
-- [Linkedin](linkedin.com/in/thalles-eduardo-7297a6237)
+- [Linkedin](https://linkedin.com/in/thalles-eduardo-7297a6237)
